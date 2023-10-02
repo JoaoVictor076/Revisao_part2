@@ -1,0 +1,15 @@
+C:\Users\joaok\OneDrive\Área de Trabalho\Revisão_part2\Src\Revisao.Data\bin\Debug\net6.0\Revisao.Data.deps.json
+C:\Users\joaok\OneDrive\Área de Trabalho\Revisão_part2\Src\Revisao.Data\bin\Debug\net6.0\Revisao.Data.dll
+C:\Users\joaok\OneDrive\Área de Trabalho\Revisão_part2\Src\Revisao.Data\bin\Debug\net6.0\Revisao.Data.pdb
+C:\Users\joaok\OneDrive\Área de Trabalho\Revisão_part2\Src\Revisao.Data\bin\Debug\net6.0\Revisao.Domain.dll
+C:\Users\joaok\OneDrive\Área de Trabalho\Revisão_part2\Src\Revisao.Data\bin\Debug\net6.0\Revisao.Domain.pdb
+C:\Users\joaok\OneDrive\Área de Trabalho\Revisão_part2\Src\Revisao.Data\obj\Debug\net6.0\Revisao.Data.csproj.AssemblyReference.cache
+C:\Users\joaok\OneDrive\Área de Trabalho\Revisão_part2\Src\Revisao.Data\obj\Debug\net6.0\Revisao.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaok\OneDrive\Área de Trabalho\Revisão_part2\Src\Revisao.Data\obj\Debug\net6.0\Revisao.Data.AssemblyInfoInputs.cache
+C:\Users\joaok\OneDrive\Área de Trabalho\Revisão_part2\Src\Revisao.Data\obj\Debug\net6.0\Revisao.Data.AssemblyInfo.cs
+C:\Users\joaok\OneDrive\Área de Trabalho\Revisão_part2\Src\Revisao.Data\obj\Debug\net6.0\Revisao.Data.csproj.CoreCompileInputs.cache
+C:\Users\joaok\OneDrive\Área de Trabalho\Revisão_part2\Src\Revisao.Data\obj\Debug\net6.0\Revisao.Data.csproj.CopyComplete
+C:\Users\joaok\OneDrive\Área de Trabalho\Revisão_part2\Src\Revisao.Data\obj\Debug\net6.0\Revisao.Data.dll
+C:\Users\joaok\OneDrive\Área de Trabalho\Revisão_part2\Src\Revisao.Data\obj\Debug\net6.0\refint\Revisao.Data.dll
+C:\Users\joaok\OneDrive\Área de Trabalho\Revisão_part2\Src\Revisao.Data\obj\Debug\net6.0\Revisao.Data.pdb
+C:\Users\joaok\OneDrive\Área de Trabalho\Revisão_part2\Src\Revisao.Data\obj\Debug\net6.0\ref\Revisao.Data.dll
