@@ -1,0 +1,17 @@
+C:\Users\joaok\OneDrive\Área de Trabalho\Revisão_part2\Src\Revisao.Application\bin\Debug\net6.0\Revisao.Application.deps.json
+C:\Users\joaok\OneDrive\Área de Trabalho\Revisão_part2\Src\Revisao.Application\bin\Debug\net6.0\Revisao.Application.dll
+C:\Users\joaok\OneDrive\Área de Trabalho\Revisão_part2\Src\Revisao.Application\bin\Debug\net6.0\Revisao.Application.pdb
+C:\Users\joaok\OneDrive\Área de Trabalho\Revisão_part2\Src\Revisao.Application\bin\Debug\net6.0\Revisao.Data.dll
+C:\Users\joaok\OneDrive\Área de Trabalho\Revisão_part2\Src\Revisao.Application\bin\Debug\net6.0\Revisao.Domain.dll
+C:\Users\joaok\OneDrive\Área de Trabalho\Revisão_part2\Src\Revisao.Application\bin\Debug\net6.0\Revisao.Data.pdb
+C:\Users\joaok\OneDrive\Área de Trabalho\Revisão_part2\Src\Revisao.Application\bin\Debug\net6.0\Revisao.Domain.pdb
+C:\Users\joaok\OneDrive\Área de Trabalho\Revisão_part2\Src\Revisao.Application\obj\Debug\net6.0\Revisao.Application.csproj.AssemblyReference.cache
+C:\Users\joaok\OneDrive\Área de Trabalho\Revisão_part2\Src\Revisao.Application\obj\Debug\net6.0\Revisao.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaok\OneDrive\Área de Trabalho\Revisão_part2\Src\Revisao.Application\obj\Debug\net6.0\Revisao.Application.AssemblyInfoInputs.cache
+C:\Users\joaok\OneDrive\Área de Trabalho\Revisão_part2\Src\Revisao.Application\obj\Debug\net6.0\Revisao.Application.AssemblyInfo.cs
+C:\Users\joaok\OneDrive\Área de Trabalho\Revisão_part2\Src\Revisao.Application\obj\Debug\net6.0\Revisao.Application.csproj.CoreCompileInputs.cache
+C:\Users\joaok\OneDrive\Área de Trabalho\Revisão_part2\Src\Revisao.Application\obj\Debug\net6.0\Revisao.Application.csproj.CopyComplete
+C:\Users\joaok\OneDrive\Área de Trabalho\Revisão_part2\Src\Revisao.Application\obj\Debug\net6.0\Revisao.Application.dll
+C:\Users\joaok\OneDrive\Área de Trabalho\Revisão_part2\Src\Revisao.Application\obj\Debug\net6.0\refint\Revisao.Application.dll
+C:\Users\joaok\OneDrive\Área de Trabalho\Revisão_part2\Src\Revisao.Application\obj\Debug\net6.0\Revisao.Application.pdb
+C:\Users\joaok\OneDrive\Área de Trabalho\Revisão_part2\Src\Revisao.Application\obj\Debug\net6.0\ref\Revisao.Application.dll
